@@ -265,6 +265,16 @@ header nav ul li a.active{
   padding-top: 10px;
 }
 
+.home .home-content .block h4{
+  color: #a8b2d1;
+  font-family: 'Satisfy';
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+}
+
 .home .home-content .block .mail-btn{
   padding-top: 18px;
 }
